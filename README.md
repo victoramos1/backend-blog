@@ -20,11 +20,9 @@
     <li>IDE utilizada: VS Code</li>
 </ul>
 
-<h2>Testar online</h2>
-
-<p>Teste a aplicação online clicando em: https://victoramos1.github.io/frontend-blog/</p>
-
 <h2>Testar localmente</h2>
+
+<h3>O projeto backend blog é integrado com o projeto frontend blog, logo é necessário seguir as instruções do projeto frontend blog após fazer do backend blog (https://github.com/victoramos1/frontend-blog)</h3>
 
 <p>1 - Instale o Node.js. Caso tenha instalado, pule essa etapa</p>
 
